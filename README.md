@@ -1,8 +1,8 @@
-# MELANJUTKAN ReactJS Interaksi dengan Back-End, Pemanggilan Delete API
+# MELANJUTKAN ReactJS Interaksi dengan Back-End, Pemanggilan API POST
 
-# Disini Kita akan membuat pemanggilan API (POST) Dengan Fake API
-- disini kita menggunakan AXIOS untuk pemanggilan POST API
-- yang akan kita POST disini adalah data dummy yang sudah kita siapkan di file root 'db.json'
+# Disini Kita akan membuat pemanggilan API (PUT/UPDATE) Dengan Fake API
+- disini kita menggunakan AXIOS untuk pemanggilan PUT API
+- yang akan kita PUT disini adalah data dummy yang sudah kita siapkan di file root 'db.json'
 
 # Getting Started with Create React App
 
